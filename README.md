@@ -1,5 +1,76 @@
 # Rohan Ahuja - Portfolio Website
 
+A professional portfolio website showcasing my experience as a Full-Stack Software Engineer.
+
+## 🚀 Live Site
+
+Visit the live portfolio at: `https://[your-username].github.io/[repository-name]/`
+
+## 📁 Project Structure
+
+\`\`\`
+├── index.html          # Main portfolio page
+├── .github/
+│   └── workflows/
+│       └── deploy.yml  # GitHub Actions deployment workflow
+└── README.md          # This file
+\`\`\`
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Semantic markup
+- **CSS3** - Modern styling with Flexbox and Grid
+- **GitHub Pages** - Static site hosting
+- **GitHub Actions** - Automated deployment
+
+## 📱 Features
+
+- **Responsive Design** - Works on all device sizes
+- **Modern UI** - Clean, professional appearance
+- **Fast Loading** - Static HTML with embedded CSS
+- **SEO Friendly** - Proper meta tags and semantic HTML
+- **Accessible** - ARIA labels and semantic structure
+
+## 🚀 Deployment
+
+This site is automatically deployed to GitHub Pages using GitHub Actions whenever changes are pushed to the main branch.
+
+### Manual Setup (if needed):
+
+1. **Fork or clone this repository**
+2. **Enable GitHub Pages**:
+   - Go to repository Settings
+   - Navigate to "Pages" section
+   - Select "GitHub Actions" as the source
+3. **Push changes** to the main branch
+4. **Visit your site** at `https://[your-username].github.io/[repository-name]/`
+
+## 📝 Customization
+
+To customize this portfolio for your own use:
+
+1. **Update personal information** in `index.html`:
+   - Name and title
+   - Contact links (LinkedIn, GitHub)
+   - Location
+   - Skills and technologies
+   - Work experience
+   - Projects
+   - Education
+
+2. **Modify styling** by editing the CSS in the `<style>` section of `index.html`
+
+3. **Add new sections** by following the existing HTML structure
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 📞 Contact
+
+- **LinkedIn**: [Rohan Ahuja](https://www.linkedin.com/in/rohan-ahuja-se)
+- **GitHub**: [Rohan657](https://github.com/Rohan657)
+
 This repository contains the code for Rohan Ahuja's professional portfolio website built with Next.js.
 
 ## 🚀 Deployment Options for GitHub Pages
@@ -147,8 +218,3 @@ Git, Github
 
 ## 🎓 Education
 Bachelor of Technology in Computer Engineering (Sep 2020)
-\`\`\`
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
